@@ -1,0 +1,11 @@
+C:\Users\COMLABPC14\source\repos\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\bin\Debug\netcoreapp2.0\WendhelAton.Dipper.Web.deps.json
+C:\Users\COMLABPC14\source\repos\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\bin\Debug\netcoreapp2.0\WendhelAton.Dipper.Web.runtimeconfig.json
+C:\Users\COMLABPC14\source\repos\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\bin\Debug\netcoreapp2.0\WendhelAton.Dipper.Web.runtimeconfig.dev.json
+C:\Users\COMLABPC14\source\repos\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\bin\Debug\netcoreapp2.0\WendhelAton.Dipper.Web.dll
+C:\Users\COMLABPC14\source\repos\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\bin\Debug\netcoreapp2.0\WendhelAton.Dipper.Web.pdb
+C:\Users\COMLABPC14\source\repos\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\obj\Debug\netcoreapp2.0\WendhelAton.Dipper.Web.csprojResolveAssemblyReference.cache
+C:\Users\COMLABPC14\source\repos\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\obj\Debug\netcoreapp2.0\WendhelAton.Dipper.Web.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC14\source\repos\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\obj\Debug\netcoreapp2.0\WendhelAton.Dipper.Web.AssemblyInfoInputs.cache
+C:\Users\COMLABPC14\source\repos\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\obj\Debug\netcoreapp2.0\WendhelAton.Dipper.Web.AssemblyInfo.cs
+C:\Users\COMLABPC14\source\repos\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\obj\Debug\netcoreapp2.0\WendhelAton.Dipper.Web.dll
+C:\Users\COMLABPC14\source\repos\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\WendhelAton.Dipper.Web\obj\Debug\netcoreapp2.0\WendhelAton.Dipper.Web.pdb
